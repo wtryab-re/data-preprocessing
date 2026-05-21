@@ -1,0 +1,7 @@
+python -m venv .venv
+Command Prompt (cmd.exe).venv\Scripts\activate
+PowerShell.\.venv\Scripts\Activate.ps1
+Git Bashsource .venv/Scripts/activate
+deactivate
+
+pip install -r requirements.txt
